@@ -1,10 +1,10 @@
 # Full_Stac
 
-Diana Rose De Guzman C-23-11265
+Diana Rose De Guzman  -C-23-11265
 
-Eurie De Guzman C-23-11319
+Eurie De Guzman  -C-23-11319
 
-Stefen Gabriell De Vera C-23-11519
+Stefen Gabriell De Vera  -C-23-11519
 
 <img width="1898" height="869" alt="Screenshot 2026-02-26 001447" src="https://github.com/user-attachments/assets/2fe7efba-50d2-44be-944a-f39274c48680" />
 <img width="1897" height="865" alt="Screenshot 2026-02-26 001601" src="https://github.com/user-attachments/assets/355069ac-a348-495e-b8f1-d9240f42c316" />
